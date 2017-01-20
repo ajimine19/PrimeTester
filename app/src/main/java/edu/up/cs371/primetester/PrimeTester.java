@@ -19,7 +19,7 @@ public class PrimeTester {
         //return Math.random() > 0.5;
         if(n == 0 || n==1)
         {
-            return false;
+            return false; //returns false
         }
         for(int i=2; i<n;i++)
         {
